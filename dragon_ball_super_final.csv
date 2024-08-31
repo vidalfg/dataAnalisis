@@ -1,4 +1,4 @@
-,number_fight,character_A_name,character_A_universe,character_B,universe_character_B,character_A_power,character_B_power,character_A_id,character_B_id,winner
+id,number_fight,character_A_name,character_A_universe,character_B,universe_character_B,character_A_power,character_B_power,character_A_id,character_B_id,winner
 0,1,Rylibeu,Universe 10,Basil,Universe 9,2,72,71.0,3.0,B
 1,2,Nink,Universe 4,Goku,Universe 7,84,59,58.0,30.0,A
 2,3,Comfrey,Universe 9,Goku,Universe 7,38,59,18.0,30.0,A
